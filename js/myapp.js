@@ -1,4 +1,4 @@
-// create an array called open
+// create an array called openCards
 let openCards = [];
 
 let movesCounter = 0;
